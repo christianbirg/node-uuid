@@ -1,6 +1,8 @@
 <!--
   -- This file is auto-generated from README_js.md. Changes should be made there.
   -->
+  
+  fixed by Christian
 
 # uuid [![Build Status](https://secure.travis-ci.org/kelektiv/node-uuid.svg?branch=master)](http://travis-ci.org/kelektiv/node-uuid) #
 
